@@ -1,0 +1,1 @@
+Bienvenue sur la première activité du cours sur Git et GitHub !
